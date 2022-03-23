@@ -1,7 +1,7 @@
 {
-  "name": "net.ts",
+  "name": "mercado-libre-bff",
   "version": "1.0.0",
-  "description": "Node Express Template written in TypeScript NET.ts based on nodebestpractices",
+  "description": "Mercado Libre BFF",
   "main": "src/server.ts",
   "engines": {
     "node": ">=8.10.0"
